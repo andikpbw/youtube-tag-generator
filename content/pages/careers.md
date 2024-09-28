@@ -17,7 +17,7 @@ sections:
       maker and more seo tools which you can use easily and online
     actions:
       - label: youtools
-        url: /
+        url: 'https://youtools.in'
         icon: arrowRight
         iconPosition: right
         style: primary
