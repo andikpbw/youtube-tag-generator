@@ -16,7 +16,7 @@ sections:
       generator](https://youtools.in/youtube-tag-generator), description, banner
       maker and more seo tools which you can use easily and online
     actions:
-      - label: See open positions
+      - label: youtools
         url: /
         icon: arrowRight
         iconPosition: right
