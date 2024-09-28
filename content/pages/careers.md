@@ -3,7 +3,7 @@ title: YouTools
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: YouTools - SEO Tools Online
       color: text-dark
       styles:
         self:
