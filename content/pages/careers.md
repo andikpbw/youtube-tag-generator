@@ -80,7 +80,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: The powerful YouTube tools you need to grow your YouTube audience.
     items:
       - title: Account Executive
         subtitle: Sales
