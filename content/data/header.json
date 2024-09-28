@@ -32,7 +32,7 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "/careers",
+            "url": "https://youtools.in/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
