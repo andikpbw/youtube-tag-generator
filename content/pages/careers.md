@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: YouTools
 slug: careers
 sections:
   - title:
