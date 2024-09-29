@@ -97,10 +97,11 @@ sections:
       - type: FeaturedItem
         title: Smart Automation
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Manage your YouTube channel effortlessly with our automation tools.
+          Schedule uploads, organize playlists, manage comments, and streamline
+          your workflow so you can focus on creating great content while we
+          handle the rest
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
