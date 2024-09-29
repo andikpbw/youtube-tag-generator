@@ -359,6 +359,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
     type: FeaturedItemsSection
   - type: CarouselSection
     title: null
