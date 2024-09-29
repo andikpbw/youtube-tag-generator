@@ -139,7 +139,6 @@ sections:
           game by learning what works best in your niche
         image:
           type: ImageBlock
-          url: /images/icon1.svg
           altText: Placeholder text
           elementId: ''
           styles:
