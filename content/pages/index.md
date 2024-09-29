@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Youtube Automation & Youtube Keyword Tool
+      text: Boost Your YouTube Success with YouTools.in
       color: text-dark
       type: TitleBlock
     subtitle: For Professional Users
