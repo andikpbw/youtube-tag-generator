@@ -215,7 +215,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://youtools.in'
         showIcon: false
         icon: arrowRight
         iconPosition: right
