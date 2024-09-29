@@ -95,7 +95,7 @@ sections:
     subtitle: Built for YouTube Creators
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Smart Automation
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
