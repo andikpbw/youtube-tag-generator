@@ -283,7 +283,7 @@ sections:
           higher in YouTube search results and gain more organic views.
         image:
           url: /images/youtools-seo-tools.jpg
-          altText: Placeholder Image
+          altText: youtools
           styles:
             self:
               borderRadius: x-large
