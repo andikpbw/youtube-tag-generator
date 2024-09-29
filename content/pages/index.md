@@ -506,8 +506,9 @@ sections:
       - title: Higher Rankings
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          By using the right keywords and optimizing your content, you can rank
+          higher in YouTube search results and gain more organic views.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
