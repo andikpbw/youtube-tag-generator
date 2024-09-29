@@ -234,10 +234,10 @@ sections:
       - type: FeaturedItem
         title: Data-Driven Insights
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Make informed decisions using our detailed analytics. Understand
+          viewer behavior, engagement, and trends to fine-tune your content
+          strategy and improve your channel’s performance.
         image:
           type: ImageBlock
           url: /images/icon1.svg
