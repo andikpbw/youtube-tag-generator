@@ -25,7 +25,7 @@ sections:
         type: Button
     media:
       url: /images/youtools.png
-      altText: Unblock your team boost your time to production preview
+      altText: youtools
       elementId: ''
       type: ImageBlock
     badge:
