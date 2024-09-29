@@ -14,7 +14,7 @@ sections:
       generator](https://youtools.in/youtube-tag-generator), description, banner
       maker and more seo tools
     actions:
-      - label: Get started
+      - label: youtools
         altText: ''
         url: ''
         showIcon: false
