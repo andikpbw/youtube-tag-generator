@@ -304,7 +304,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our users say about us
     items:
       - title: “Game-Changer for My YouTube Channel!”
         tagline: ⭐⭐⭐⭐⭐
