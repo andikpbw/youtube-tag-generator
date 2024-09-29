@@ -126,10 +126,11 @@ sections:
               borderRadius: x-large
       - title: Powerful Keyword Research
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Unlock the potential of your videos with YouTools.in’s advanced
+          keyword tool. Find trending keywords, analyze search volume, and
+          discover what your audience is looking for to ensure your content
+          reaches the right viewers
         image:
           url: /images/icon2.svg
           altText: Featured icon two
