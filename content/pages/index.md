@@ -28,7 +28,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: youtools.in
+      label: Welcome to YouTools.in
       color: text-primary
       type: Badge
     elementId: ''
