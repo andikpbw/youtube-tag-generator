@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: For Professional Users
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      100% Free SEO Studio Tools to save time in creating YouTube name
+      generator, YouTube title generator, tag generator, description, banner
+      maker and more seo tools
     actions:
       - label: Get started
         altText: ''
