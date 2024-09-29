@@ -473,6 +473,7 @@ seo:
     seo tools
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 isDraft: false
 ---
