@@ -336,7 +336,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: “Perfect for Keyword Research”
-        tagline: Testimonial 2
+        tagline: ⭐⭐⭐⭐⭐
         subtitle: '- Sara, Beauty Vlogger'
         text: >
           *"I struggled with finding the right keywords for my niche until I
