@@ -92,7 +92,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Built for YouTube Creators
     items:
       - type: FeaturedItem
         title: 500k
