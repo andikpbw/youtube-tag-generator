@@ -330,7 +330,7 @@ sections:
           Our data-driven insights and competitor analysis tools give you the
           edge you need to grow your channel more quickly and efficiently.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/youtools-seo.jpg
           altText: Placeholder image
           styles:
             self:
