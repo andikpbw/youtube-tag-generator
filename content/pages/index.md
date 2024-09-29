@@ -528,7 +528,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Increased Engagement
-        tagline: This is the tagline
+        tagline: '#2'
         subtitle: ''
         text: >
           With automation tools, spend less time managing your channel and more
