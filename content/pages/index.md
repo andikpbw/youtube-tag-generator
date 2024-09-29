@@ -4,7 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        100% Free SEO Studio Tools to save time in creating YouTube name
+        generator, YouTube title generator, tag generator, description, banner
+        maker and more seo tools
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
