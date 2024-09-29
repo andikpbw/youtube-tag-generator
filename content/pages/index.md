@@ -501,7 +501,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: YouTools.in provides the right tools to help you succeed
     items:
       - title: Feature Item One
         tagline: This is the tagline
