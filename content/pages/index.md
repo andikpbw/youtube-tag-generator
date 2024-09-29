@@ -552,7 +552,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Faster Growth
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Our data-driven insights and competitor analysis tools give you the
