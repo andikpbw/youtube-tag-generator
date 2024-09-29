@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Youtu
+      text: Youtube Automation & Youtube Keyword Tool
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
