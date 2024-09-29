@@ -467,7 +467,10 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: YouTools SEO Tools
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    100% Free SEO Studio Tools to save time in creating YouTube name generator,
+    YouTube title generator, tag generator, description, banner maker and more
+    seo tools
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
