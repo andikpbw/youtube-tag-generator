@@ -308,7 +308,7 @@ sections:
     items:
       - title: “Game-Changer for My YouTube Channel!”
         tagline: Michael Yeouh
-        subtitle: 'Maria Walters, Company'
+        subtitle: ⭐⭐⭐⭐⭐
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
