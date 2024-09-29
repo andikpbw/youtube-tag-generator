@@ -307,7 +307,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: “Game-Changer for My YouTube Channel!”
-        tagline: Amit - Tech Content Creator
+        tagline: ⭐⭐⭐⭐⭐
         subtitle: ⭐⭐⭐⭐⭐
         text: >
           YouTools.in has completely transformed the way I manage my YouTube
