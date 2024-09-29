@@ -50,11 +50,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At **YouTools.in**, we believe in empowering creators, professionals, and
+      DIY enthusiasts with top-quality tools that make every task easier,
+      faster, and more efficient. Whether you're a seasoned pro or just starting
+      out, we’ve got the perfect tools to help you achieve your goals.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
