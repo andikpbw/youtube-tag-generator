@@ -29,7 +29,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to YouTools.in
+      label: Welcome to YouTools
       color: text-primary
       type: Badge
     elementId: ''
