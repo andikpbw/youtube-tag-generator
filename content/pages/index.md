@@ -204,7 +204,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Content Ideas & Trends
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Never run out of ideas with our content suggestion tool. Discover the
           latest trends and popular topics in your niche, giving you fresh
