@@ -309,10 +309,11 @@ sections:
       - title: “Game-Changer for My YouTube Channel!”
         tagline: Amit - Tech Content Creator
         subtitle: ⭐⭐⭐⭐⭐
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          YouTools.in has completely transformed the way I manage my YouTube
+          content. The automation features have saved me so much time, and the
+          keyword tool helped me rank higher on my videos. My channel growth has
+          been incredible since I started using it!
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
