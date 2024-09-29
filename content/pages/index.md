@@ -248,7 +248,7 @@ sections:
       creators, professionals, and DIY enthusiasts with top-quality tools that
       make every task easier, faster, and more efficient. Whether you're a
       seasoned pro or just starting out, we’ve got the perfect tools to help you
-      achieve your goals. <br> Whether you're just starting out or you're a
+      achieve your goals. <br><br> Whether you're just starting out or you're a
       seasoned creator, YouTools provides the right tools to help you succeed.
       Our user-friendly interface and powerful features are designed to make
       YouTube management easy, so you can focus on what matters most—creating
