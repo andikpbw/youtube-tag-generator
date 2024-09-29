@@ -272,6 +272,100 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: What You Can Achieve with YouTools.in
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: YouTools.in provides the right tools to help you succeed
+    items:
+      - title: Higher Rankings
+        tagline: ''
+        subtitle: ''
+        text: >
+          By using the right keywords and optimizing your content, you can rank
+          higher in YouTube search results and gain more organic views.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Increased Engagement
+        tagline: ''
+        subtitle: ''
+        text: >
+          With automation tools, spend less time managing your channel and more
+          time interacting with your audience.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Faster Growth
+        tagline: ''
+        subtitle: ''
+        text: >
+          Our data-driven insights and competitor analysis tools give you the
+          edge you need to grow your channel more quickly and efficiently.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: CarouselSection
     title: null
     subtitle: What our users say about us
@@ -371,100 +465,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: What You Can Achieve with YouTools.in
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: YouTools.in provides the right tools to help you succeed
-    items:
-      - title: Higher Rankings
-        tagline: ''
-        subtitle: ''
-        text: >
-          By using the right keywords and optimizing your content, you can rank
-          higher in YouTube search results and gain more organic views.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Increased Engagement
-        tagline: ''
-        subtitle: ''
-        text: >
-          With automation tools, spend less time managing your channel and more
-          time interacting with your audience.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Faster Growth
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our data-driven insights and competitor analysis tools give you the
-          edge you need to grow your channel more quickly and efficiently.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
 seo:
   metaTitle: YouTools SEO Tools
   metaDescription: >-
