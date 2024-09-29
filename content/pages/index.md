@@ -283,7 +283,7 @@ sections:
           higher in YouTube search results and gain more organic views.
         image:
           url: /images/seo-studio-tools.jpg
-          altText: youtools seo tools
+          altText: seo studio tools
           styles:
             self:
               borderRadius: x-large
