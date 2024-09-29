@@ -177,10 +177,10 @@ sections:
       - type: FeaturedItem
         title: Competitor Analysis
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Keep an eye on your competition with our competitor analysis feature.
+          Track their performance, analyze their keywords, and stay ahead of the
+          game by learning what works best in your niche
         image:
           type: ImageBlock
           url: /images/icon1.svg
