@@ -96,7 +96,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Smart Automation
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Manage your YouTube channel effortlessly with our automation tools.
           Schedule uploads, organize playlists, manage comments, and streamline
