@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: For Professional Users
     text: >
-      100% Free SEO Tools to save time in creating YouTube name generator,
-      YouTube title generator, [youtube tag
+      100% Free Tools to save time in creating YouTube name generator, YouTube
+      title generator, [youtube tag
       generator](https://youtools.in/youtube-tag-generator), description, banner
       maker and more seo tools
     actions:
