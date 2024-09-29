@@ -194,7 +194,6 @@ sections:
           strategy and improve your channel’s performance.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
           altText: Placeholder text
           elementId: ''
           styles:
