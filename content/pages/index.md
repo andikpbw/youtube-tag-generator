@@ -338,10 +338,11 @@ sections:
       - title: “Perfect for Keyword Research”
         tagline: Testimonial 2
         subtitle: '- Sara, Beauty Vlogger'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          *"I struggled with finding the right keywords for my niche until I
+          found YouTools.in. Now, my videos reach the right audience, and my
+          views have more than doubled. The competitor analysis is a bonus
+          too!"*
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
