@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
