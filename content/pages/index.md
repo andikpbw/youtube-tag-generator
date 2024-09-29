@@ -366,7 +366,7 @@ sections:
         type: FeaturedItem
       - title: '"Effortless Channel Management"'
         tagline: ⭐⭐⭐⭐⭐
-        subtitle: 'Maria Walters, Company'
+        subtitle: Ravi - Gaming Creator
         text: >
           *"Managing my channel was always time-consuming, but YouTools.in’s
           automation tools changed that. Scheduling uploads, managing comments,
