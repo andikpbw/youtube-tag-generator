@@ -4,10 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        100% Free SEO Studio Tools to save time in creating YouTube name
-        generator, YouTube title generator, tag generator, description, banner
-        maker and more seo tools
+      text: Youtu
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
