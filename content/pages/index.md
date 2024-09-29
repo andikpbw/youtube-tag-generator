@@ -282,7 +282,7 @@ sections:
           By using the right keywords and optimizing your content, you can rank
           higher in YouTube search results and gain more organic views.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/youtools-seo-tools.jpg
           altText: Placeholder Image
           styles:
             self:
