@@ -112,7 +112,7 @@ sections:
       - title: Optimize for SEO
         subtitle: ''
         text: >
-          et higher rankings on YouTube search results with our SEO-friendly
+          Get higher rankings on YouTube search results with our SEO-friendly
           suggestions. From titles and descriptions to tags, we provide
           actionable insights to help you optimize every aspect of your videos
           for maximum visibility.
