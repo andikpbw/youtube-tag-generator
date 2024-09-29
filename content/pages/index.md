@@ -152,10 +152,11 @@ sections:
         type: FeaturedItem
       - title: Optimize for SEO
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          et higher rankings on YouTube search results with our SEO-friendly
+          suggestions. From titles and descriptions to tags, we provide
+          actionable insights to help you optimize every aspect of your videos
+          for maximum visibility.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
