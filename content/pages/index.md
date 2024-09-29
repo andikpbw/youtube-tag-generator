@@ -244,10 +244,10 @@ sections:
       type: TitleBlock
     subtitle: Your Ultimate Tools Hub!
     text: >
-      At **YouTools.in**, we believe in empowering creators, professionals, and
-      DIY enthusiasts with top-quality tools that make every task easier,
-      faster, and more efficient. Whether you're a seasoned pro or just starting
-      out, we’ve got the perfect tools to help you achieve your goals.
+      At **YouTools**, we believe in empowering creators, professionals, and DIY
+      enthusiasts with top-quality tools that make every task easier, faster,
+      and more efficient. Whether you're a seasoned pro or just starting out,
+      we’ve got the perfect tools to help you achieve your goals.
     colors: bg-light-fg-dark
     styles:
       self:
