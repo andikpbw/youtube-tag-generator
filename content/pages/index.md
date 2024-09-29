@@ -467,7 +467,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: YouTools seo
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
