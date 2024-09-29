@@ -360,6 +360,7 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+        fontWeight: 400
     type: FeaturedItemsSection
   - type: CarouselSection
     title: null
