@@ -306,7 +306,7 @@ sections:
           With automation tools, spend less time managing your channel and more
           time interacting with your audience.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/youtools-seo-tools.jpg
           altText: Placeholder image
           styles:
             self:
