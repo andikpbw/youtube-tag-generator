@@ -10,7 +10,8 @@ sections:
     subtitle: For Professional Users
     text: >
       100% Free SEO Studio Tools to save time in creating YouTube name
-      generator, YouTube title generator, tag generator, description, banner
+      generator, YouTube title generator, [youtube tag
+      generator](https://youtools.in/youtube-tag-generator), description, banner
       maker and more seo tools
     actions:
       - label: Get started
