@@ -367,10 +367,11 @@ sections:
       - title: '"Effortless Channel Management"'
         tagline: ⭐⭐⭐⭐⭐
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          *"Managing my channel was always time-consuming, but YouTools.in’s
+          automation tools changed that. Scheduling uploads, managing comments,
+          and staying on top of trends is so easy now. It’s a must-have for any
+          YouTuber!"*
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
