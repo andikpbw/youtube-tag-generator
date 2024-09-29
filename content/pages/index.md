@@ -530,8 +530,9 @@ sections:
       - title: Increased Engagement
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          With automation tools, spend less time managing your channel and more
+          time interacting with your audience.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
