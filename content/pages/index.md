@@ -86,7 +86,7 @@ sections:
     type: GenericSection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Choose YouTools.in?
       color: text-dark
       styles:
         self:
