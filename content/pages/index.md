@@ -479,6 +479,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: youtools
 type: PageLayout
 isDraft: false
 ---
