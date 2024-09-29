@@ -310,10 +310,10 @@ sections:
         tagline: ⭐⭐⭐⭐⭐
         subtitle: Amit - Tech Content Creator
         text: >
-          YouTools.in has completely transformed the way I manage my YouTube
+          *"YouTools.in has completely transformed the way I manage my YouTube
           content. The automation features have saved me so much time, and the
           keyword tool helped me rank higher on my videos. My channel growth has
-          been incredible since I started using it!
+          been incredible since I started using it!"*
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
