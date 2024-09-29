@@ -307,7 +307,7 @@ sections:
           time interacting with your audience.
         image:
           url: /images/youtools-seo-tools.jpg
-          altText: Placeholder image
+          altText: youtools
           styles:
             self:
               borderRadius: x-large
