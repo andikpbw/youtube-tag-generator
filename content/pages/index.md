@@ -307,7 +307,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: “Game-Changer for My YouTube Channel!”
-        tagline: Michael Yeouh - Tech Content Creator
+        tagline: Amit - Tech Content Creator
         subtitle: ⭐⭐⭐⭐⭐
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
