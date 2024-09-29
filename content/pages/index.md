@@ -308,7 +308,7 @@ sections:
     items:
       - title: “Game-Changer for My YouTube Channel!”
         tagline: ⭐⭐⭐⭐⭐
-        subtitle: ⭐⭐⭐⭐⭐
+        subtitle: Amit - Tech Content Creator
         text: >
           YouTools.in has completely transformed the way I manage my YouTube
           content. The automation features have saved me so much time, and the
