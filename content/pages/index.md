@@ -45,7 +45,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why Choose YouTools.in?
+      text: Why Choose YouTools?
       color: text-dark
       styles:
         self:
