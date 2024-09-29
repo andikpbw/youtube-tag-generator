@@ -49,7 +49,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Your Ultimate Tools Hub!
     text: >
       At **YouTools.in**, we believe in empowering creators, professionals, and
       DIY enthusiasts with top-quality tools that make every task easier,
