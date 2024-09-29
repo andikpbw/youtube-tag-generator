@@ -1,5 +1,5 @@
 ---
-title: Home
+title: YouTools SEO Tools
 slug: /
 sections:
   - type: GenericSection
