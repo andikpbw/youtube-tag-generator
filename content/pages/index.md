@@ -504,7 +504,7 @@ sections:
     subtitle: YouTools.in provides the right tools to help you succeed
     items:
       - title: Higher Rankings
-        tagline: This is the tagline
+        tagline: '#1'
         subtitle: ''
         text: >
           By using the right keywords and optimizing your content, you can rank
