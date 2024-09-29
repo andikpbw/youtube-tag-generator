@@ -90,7 +90,6 @@ sections:
           discover what your audience is looking for to ensure your content
           reaches the right viewers
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
