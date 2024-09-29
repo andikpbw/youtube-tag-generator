@@ -205,10 +205,11 @@ sections:
       - type: FeaturedItem
         title: Content Ideas & Trends
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Never run out of ideas with our content suggestion tool. Discover the
+          latest trends and popular topics in your niche, giving you fresh
+          inspiration for your next video. Stay ahead of the curve and always
+          produce relevant, engaging content.
         image:
           type: ImageBlock
           url: /images/icon1.svg
