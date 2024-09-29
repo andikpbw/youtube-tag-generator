@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Boost Your YouTube Success with YouTools.in
+      text: Boost Your YouTube Success with YouTools
       color: text-dark
       type: TitleBlock
     subtitle: For Professional Users
