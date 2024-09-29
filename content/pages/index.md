@@ -476,6 +476,8 @@ seo:
   socialImage: /images/youtools.png
   type: Seo
   addTitleSuffix: false
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
