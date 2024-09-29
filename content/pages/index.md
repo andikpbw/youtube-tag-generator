@@ -503,7 +503,7 @@ sections:
       type: TitleBlock
     subtitle: YouTools.in provides the right tools to help you succeed
     items:
-      - title: Feature Item One
+      - title: Higher Rankings
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
