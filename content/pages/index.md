@@ -267,7 +267,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: What You Can Achieve with YouTools.in
+      text: What You Can Achieve with YouTools
       color: text-primary
       styles:
         self:
