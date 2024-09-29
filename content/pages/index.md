@@ -115,7 +115,6 @@ sections:
           actionable insights to help you optimize every aspect of your videos
           for maximum visibility.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
