@@ -470,9 +470,9 @@ sections:
 seo:
   metaTitle: YouTools SEO Tools
   metaDescription: >-
-    100% Free SEO Studio Tools to save time in creating YouTube name generator,
-    YouTube title generator, tag generator, description, banner maker and more
-    seo tools
+    YouTools SEO Tools - 100% Free SEO Studio Tools to save time in creating
+    YouTube Title Generator, Youtube Tag Generator, description, banner maker
+    and more seo tools
   socialImage: /images/youtools.png
   type: Seo
   addTitleSuffix: false
