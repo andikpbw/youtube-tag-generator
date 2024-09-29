@@ -528,7 +528,7 @@ sections:
         type: FeaturedItem
       - title: Increased Engagement
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
