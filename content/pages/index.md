@@ -495,7 +495,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: What You Can Achieve with YouTools.in
       color: text-primary
       styles:
         self:
