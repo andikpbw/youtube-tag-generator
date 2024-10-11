@@ -1,7 +1,5 @@
 # Netlify Content Ops Starter 
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
-
 Youtube Tag Generator that's made by youtools.in with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
 Youtube Channel [youtools](https://www.youtube.com/@youtools-seo-tools)
