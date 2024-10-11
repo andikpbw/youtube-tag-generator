@@ -4,7 +4,7 @@
 
 Youtube Tag Generator that's made by youtools.in with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
+Youtube Channel [youtools](https://www.youtube.com/@youtools-seo-tools)
 
 ## Deploying to Netlify
 
