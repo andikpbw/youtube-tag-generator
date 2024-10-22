@@ -5,6 +5,9 @@ const nextConfig = {
     env: {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
+    experimental: {
+		runtime: 'experimental-edge',
+	},
     trailingSlash: true,
     reactStrictMode: true,
     swcMinify: true
